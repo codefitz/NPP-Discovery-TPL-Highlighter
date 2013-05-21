@@ -1,6 +1,6 @@
-#Notepad++ tpl Syntax Highlighter
+##Notepad++ TPL Syntax Highlighting
 
-## Description
+### Description
 
 A TPL syntax highlighter for BMC's Atrium Discovery and Dependency Mapping (ADDM) with partial blocking functionality.
 
@@ -8,7 +8,7 @@ This is a fork from [cwill747's](https://github.com/cwill747) improvement, with 
 
 Autocomplete is available through *Settings -> Preferences.. -> Backup/Auto-Completion -> Enable auto-completion to each input (checkbox)*
 
-## Installation
+### Installation
 
 This is an improvement on the original syntax file from BMC Discovery Community, download the installation files from [here](https://communities.bmc.com/communities/docs/DOC-20540/version/1):
 
