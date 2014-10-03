@@ -18,3 +18,7 @@ This is an improvement on the original syntax file from BMC Discovery Community,
 1. Copy the new userDefineLang.xml to that location
 1. Close Notepad++ and restart
 1. TPL should be available in the language list, and files saved as .tpl should use it automatically
+
+### Update
+
+Added a new syntax file for queries stored in text files (uses extension *.twq).
